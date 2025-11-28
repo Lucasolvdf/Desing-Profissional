@@ -1,34 +1,71 @@
-Portifólio de Lucas Oliveira Miranda
+Portfólio – Lucas Oliveira Miranda
 
-Cursando Bacharelado em Ciência da Computação - 1º Semestre - UDF (Universidade do Distrito Ferderal)# Portifolio
+🎓 Estudante de Bacharelado em Ciência da Computação
+📍 1º Semestre – UDF (Universidade do Distrito Federal)
+💻 Apaixonado por tecnologia, lógica de programação e desenvolvimento de soluções práticas.
 
-Projetos em TI
+🚀 Projetos em TI
+🔹 Programa em C para Reordenação de Números Aleatórios
 
-## Programa em C para reordenação de números aleatórios
+Implementação de algoritmos de ordenação, com análise de:
 
-Implementa algoritmos de ordenação e analisa desempenho em tempo de execução e número de passos.
+Tempo de execução
 
-Demonstra lógica de programação e raciocínio computacional.
+Número de passos
 
+Eficiência de métodos diferentes
+📌 Demonstra lógica de programação e raciocínio computacional.
 
-## Calculadora Científica em C
+🔹 Calculadora Científica em C
 
-Desenvolvida em grupo com planejamento prévio e explicação detalhada das funcionalidades.
+Projeto em grupo com:
 
-Aborda operações matemáticas avançadas e manipulação de dados.
+Planejamento colaborativo
 
+Explicação documentada das funcionalidades
 
-## Banco de Dados SQL para Sistema de Estacionamento
+Operações matemáticas avançadas
+📌 Foco em manipulação de dados e trabalho em equipe.
 
-Criação de tabelas, consultas e relacionamentos para gerenciar vagas, veículos e movimentações do estacionamento.
+🔹 Banco de Dados SQL – Sistema de Estacionamento
 
-Inclui registro de entradas e saídas, controle de horários e relatórios de ocupação.
+Sistema completo contendo:
 
-Demonstra habilidades em modelagem de dados e manipulação de SQL.
+Criação de tabelas
 
+Consultas SQL (CRUD)
 
-## Site Ilustrativo de Venda de Barcos de Luxo
+Relacionamentos entre entidades
 
-Projeto em grupo com desenvolvimento de interface, layout e experiência do usuário.
+Registro de entradas e saídas
 
-Utiliza tecnologias front-end como HTML, CSS e JavaScript.
+Relatórios de ocupação e horários
+📌 Demonstra habilidades em modelagem de dados e SQL.
+
+🔹 Site Ilustrativo de Venda de Barcos de Luxo
+
+Projeto front-end com:
+
+Design de interface
+
+Layout responsivo
+
+Experiência de usuário (UX)
+
+HTML, CSS e JavaScript
+📌 Primeiro contato com desenvolvimento web e criação de interfaces.
+
+🛠️ Tecnologias e Ferramentas
+
+Linguagens: C, SQL, JavaScript
+
+Front-end: HTML5, CSS3
+
+Banco de Dados: MySQL / MariaDB
+
+Outras habilidades: Lógica de programação, documentação, trabalho em equipe
+
+📫 Contato
+
+📧 E-mail: lucasoliveiramiranda73@gmail.com
+🔗 LinkedIn:https://www.linkedin.com/in/lucasolvdf/
